@@ -12,12 +12,15 @@ AI & Web Engineer
 ## ✨ Area Of Interest :
 🧠Artificial Intelligence 
 - 👀Vision Model
-- 👅Language Model  
+- 👅Language Model
+
 🤖Machine Learning
 - 🎲Reinforcement Learning
-- 💻Deep Learning  
+- 💻Deep Learning
+
 🎞️Frontend Engineer
 - 🎨UI/UX Design  
+
 💀Backend Engineer
 - 🌳Amazon AWS
 
