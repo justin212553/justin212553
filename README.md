@@ -1,16 +1,25 @@
-## Hi there 👋
+# Profile
+AI & Web Engineer
 
-<!--
-**justin212553/justin212553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏫 Education :
+2025-2026 University of California, Irvine 
+2019-2023 Pennsylvania State University, University Park 
 
-Here are some ideas to get you started:
+## 🎓 Diploma :
+2026: Master of Computer Science
+2023: Bachelor of Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Area Of Interest :
+🧠Artificial Intelligence 
+- 👀Vision Model
+- 👅Language Model
+🤖Machine Learning
+- 🎲Reinforcement Learning
+- 💻Deep Learning
+🎞️Frontend Engineer
+- 🎨UI/UX Design
+💀Backend Engineer
+- 🌳Amazon AWS
+
+## 👨‍💻 Programming Languages :
+Python Javascript HTML CSS Java XML C C++ 
