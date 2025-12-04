@@ -2,11 +2,11 @@
 AI & Web Engineer
 
 ## 🏫 Education :
-2025-2026 University of California, Irvine 
+2025-2026 University of California, Irvine  
 2019-2023 Pennsylvania State University, University Park 
 
 ## 🎓 Diploma :
-2026: Master of Computer Science
+2026: Master of Computer Science  
 2023: Bachelor of Computer Science
 
 ## ✨ Area Of Interest :
