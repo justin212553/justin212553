@@ -1,5 +1,6 @@
 # Profile
 AI & Web Engineer
+Contact: wlee5149.work@gmail.com
 
 ## 🏫 Education :
 2025-2026 University of California, Irvine  
