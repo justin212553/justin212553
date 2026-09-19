@@ -1,5 +1,5 @@
 # Profile
-AI & Web Engineer
+AI & Web Engineer 
 Contact: wlee5149.work@gmail.com
 
 ## 🏫 Education :
